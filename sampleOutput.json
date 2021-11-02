@@ -1,110 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 1666,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Billy Steele",
-            "title": "Beats Fit Pro review: All the perks of AirPods with a more comfortable design",
-            "description": "Thanks to some early hints in iOS 15.1, Beats’ latest earbuds are hardly a surprise. Today the company officially debuted its latest model: the $200 Beats Fit Pro. With a similar design to the Studio Buds that arrived earlier this year, this new pair offers a…",
-            "url": "https://www.engadget.com/beats-fit-pro-review-140004462.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/fafc5220-3b08-11ec-ad9d-4be2ad921dcb",
-            "publishedAt": "2021-11-01T14:00:04Z",
-            "content": "Thanks to some early hints in iOS 15.1, Beats latest earbuds are hardly a surprise. Today the company officially debuted its latest model: the $200 Beats Fit Pro. With a similar design to the Studio … [+11952 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "COP26: World leaders promise to end deforestation by 2030 - BBC News",
+            "description": "More than 100 nations including Brazil, Russia and Indonesia are expected to sign COP26's first major deal.",
+            "url": "https://www.bbc.com/news/science-environment-59088498",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/96B4/production/_121308583_gettyimages-1173062100-1.jpg",
+            "publishedAt": "2021-11-02T07:57:26Z",
+            "content": "By Georgina RannardBBC News\r\nImage source, Getty Images\r\nImage caption, Trees are often cut down to create grazing land to feed the world's hunger for meat\r\nMore than 100 world leaders will promise t… [+8061 chars]"
         },
         {
             "source": {
                 "id": "engadget",
                 "name": "Engadget"
             },
-            "author": "Billy Steele",
-            "title": "Beats Fit Pro offer noise cancellation and the best AirPod features for $200",
-            "description": "Beats latest earbuds are official. After some early hints in iOS 15.1, the company has formally announced the Beats Fit Pro. This set of true wireless earbuds has a similar look to the Studio Buds that debuted earlier this year with an added fit wing, or \"win…",
-            "url": "https://www.engadget.com/beats-fit-pro-announced-specs-price-availability-140008207.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/ef5ba610-3b0c-11ec-b3fd-cc4d57ef49b1",
-            "publishedAt": "2021-11-01T14:00:08Z",
-            "content": "Beats latest earbuds are official. After some early hints in iOS 15.1, the company has formally announced the Beats Fit Pro. This set of true wireless earbuds has a similar look to the Studio Buds th… [+3461 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Dieter Bohn",
-            "title": "The smartphone, circa 2031",
-            "description": "What will smartphones look like 10 years from now? We look at options like modular phones, foldables, smart glasses, and ambient computing.",
-            "url": "https://www.theverge.com/22749341/smartphones-future-predictions",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/2NJ0V6J5cHFz7KgCW0ZjTwX9aMU=/0x51:2040x1119/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22967765/acastro_futurePhones_lede.jpg",
-            "publishedAt": "2021-11-01T12:44:00Z",
-            "content": "Small improvements can go in surprising and strange directions What will the smartphone look like in 10 years? The most likely answer, I’m afraid, is one of two options: it’s either completely unknow… [+13852 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "James Vincent",
-            "title": "The future of AI is a conversation with a computer",
-            "description": "AI writing systems are becoming more and more common, from Google’s suggested replies in Gmail to chatbots powered by OpenAI’s GPT-3. But what do the strengths and weaknesses of these tools tell us about the future of artificial intelligence?",
-            "url": "https://www.theverge.com/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Co1KRdEAyiP9HGfWBRP6BLOH3R8=/0x736:1080x1301/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22963970/VRG_ILLO_4851_10_Year_ai.jpg",
-            "publishedAt": "2021-11-01T13:16:00Z",
-            "content": "Illustration by Micha Huigen\r\n\n \n\n\n AI writing tools can tell us a lot about artificial intelligence How would an AI writing program start an article on the future of AI writing? Well, there’s one ea… [+22396 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "Meta’s Andrew Bosworth on moving Facebook to the metaverse",
-            "description": "VP of Reality Labs Andrew Bosworth talks about his long career at Facebook and how building the metaverse is a refocus for the company. He also touches on the new name, Meta, and the Facebook Papers.",
-            "url": "https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1FK1iuupaZcrx4CKiMHhdbZbx4w=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22969597/VRG_ILLO_Decoder_AndrewBosworth_s.jpg",
-            "publishedAt": "2021-11-01T13:15:00Z",
-            "content": "Grayson Blackmon\r\n\n \n\n\n ‘The magnitude of technological shifts that we are trying to manifest here hasn’t been attempted in a long time’ Last week, Facebook announced a major corporate rebrand by cha… [+38546 chars]"
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "'Squid Game' cryptocurrency collapses in a $3 million scam | Engadget - Engadget",
+            "description": "A cryptocurrency inspired by Squid Game enticed enough investors to see its value soar to over $2,800, before its creators cashed out and vanished..",
+            "url": "https://www.engadget.com/squid-game-cryptocurrency-scam-073957132.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/5396e290-3ba6-11ec-b7b0-a7fef2d57060",
+            "publishedAt": "2021-11-02T07:42:44Z",
+            "content": "A cryptocurrency inspired by Squid Game successfully enticed enough investors to see its value soar to over $2,800... before its creators cashed out and vanished. The cryptocurrency called $SQUID, wh… [+1343 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "CNBC"
             },
-            "author": "Caitlin McGarry",
-            "title": "The New Beats Earbuds Are Basically Perfect",
-            "description": "Beats is in a strange position. The company’s marketing is top-tier, and it’s been well established that its bass-forward headphones are the pick of choice for celebrities, athletes, musicians, and more (at least when they’re being photographed, which is ofte…",
-            "url": "https://gizmodo.com/the-new-beats-earbuds-are-basically-perfect-1847972007",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6737c341fe9c0e510b958d67a94a9d1.jpg",
-            "publishedAt": "2021-11-01T14:00:00Z",
-            "content": "Beats is in a strange position. The companys marketing is top-tier, and its been well established that its bass-forward headphones are the pick of choice for celebrities, athletes, musicians, and mor… [+11558 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Staff",
-            "title": "Australia shares rise on tech boost; Westpac drops on profit miss - Reuters",
-            "description": "Australian shares climbed on Monday, kicking off the new month on a positive note, with domestic technology stocks catching the tailwind from a bounce on Wall Street, while Westpac dropped 5.3% after the lender missed annual profit estimates.",
-            "url": "https://www.reuters.com/article/australia-stocks-midday-idUSL4N2RR1E5",
-            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-            "publishedAt": "2021-11-01T00:09:00Z",
-            "content": "By Reuters Staff\r\nNov 1 (Reuters) - Australian shares climbed on Monday, kicking off the new month on a positive note, with domestic technology stocks catching the tailwind from a bounce on Wall Stre… [+1698 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Staff",
-            "title": "S.Korea stocks rise as investors latch on to upbeat export data - Reuters",
-            "description": "* KOSPI rises, foreigners net sellers * Korean won weakens against the U.S. dollar * South Korea benchmark bond yield falls SEOUL, Nov 1 (Reuters) - Round-up of South Korean financial markets: ** South Korean shares rose on Monday as risk appetite got a lift …",
-            "url": "https://www.reuters.com/article/southkorea-markets-midday-idUSL4N2RS0TG",
-            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-            "publishedAt": "2021-11-01T03:19:00Z",
-            "content": "By Reuters Staff\r\n* KOSPI rises, foreigners net sellers\r\n * Korean won weakens against the U.S. dollar\r\n * South Korea benchmark bond yield falls\r\nSEOUL, Nov 1 (Reuters) - Round-up of South Korean fi… [+2068 chars]"
+            "author": "Ryan Browne",
+            "title": "Fortnite to shut down in China as Beijing intensifies video game crackdown - CNBC",
+            "description": "The Chinese version of Fortnite, \"Fortress Night,\" will shut down on Nov. 15.",
+            "url": "https://www.cnbc.com/2021/11/02/fortnite-to-shut-down-in-china-amid-video-game-crackdown.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106969008-1635833577037-gettyimages-1137224423-ChinaFlagStudio_4611.jpeg?v=1635833695",
+            "publishedAt": "2021-11-02T07:23:34Z",
+            "content": "Fortnite is calling it quits in China.\r\nThe wildly popular battle-royale game, developed by Epic Games, will shut down its local Chinese version on Nov. 15, according to an update on its website.\r\nUs… [+1561 chars]"
         },
         {
             "source": {
@@ -112,155 +47,220 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Futures hit new peaks in a big week for Federal Reserve - Reuters",
-            "description": "U.S. stock index futures hit record highs on Monday, led by gains in Tesla and economy-sensitive stocks at the start of a week packed with economic data as well as the Federal Reserve's potential move to slow down bond purchases.",
-            "url": "https://www.reuters.com/business/futures-hit-new-peaks-big-week-federal-reserve-2021-11-01/",
-            "urlToImage": "https://www.reuters.com/resizer/dbaRpnirDCzklHAvl8K5pkuYmPQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NXNGCPJ3TVIU7A4JOETZ2JSHKI.jpg",
-            "publishedAt": "2021-11-01T11:38:00Z",
-            "content": "Traders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., October 27, 2021. REUTERS/Brendan McDermidNov 1 (Reuters) - U.S. stock index futures hit record highs on Monday… [+2332 chars]"
+            "title": "Japan's Joker assailant wanted to \"kill lots of people\"-police - Reuters",
+            "description": "A drifter who admired the Joker from Batman and dressed as him to carry out a Halloween attack on a Tokyo train \"wanted to kill lots of people\" and planned his moves over months, buying a knife to use in the internet, police and media said on Tuesday.",
+            "url": "https://www.reuters.com/world/asia-pacific/japans-joker-assailant-wanted-kill-lots-people-police-2021-11-02/",
+            "urlToImage": "https://www.reuters.com/resizer/IxWIQBFHSG2E5g16m6-PqSqEsw4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5HRFIV4YRFLLHEUT4NIJWZ3CYU.jpg",
+            "publishedAt": "2021-11-02T06:52:00Z",
+            "content": "Kyota Hattori, 24, who was arrested on suspicion of a knife, arson and acid attack incident on the Keio Line train on Halloween day on October 31, 2021, is escorted to the prosecutor's office from th… [+2557 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Devik Jain",
-            "title": "Futures hit new peaks in a big week for Federal Reserve - Reuters.com",
-            "description": "U.S. stock index futures hit record highs on Monday, led by gains in Tesla and economy-sensitive stocks at the start of a week packed with economic data as well as the Federal Reserve's potential move to slow down bond purchases.",
-            "url": "https://www.reuters.com/article/usa-stocks-idUSKBN2HM24Q",
-            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20211101&t=2&i=1579853009&r=LYNXMPEHA0166&w=800",
-            "publishedAt": "2021-11-01T11:39:00Z",
-            "content": "(Reuters) - U.S. stock index futures hit record highs on Monday, led by gains in Tesla and economy-sensitive stocks at the start of a week packed with economic data as well as the Federal Reserves po… [+2059 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "China's giant state-owned companies struggle to align climate rhetoric with reality - Reuters",
-            "description": "Ambitious pledges from China's leaders to cut emissions have put its giant, carbon-intensive state corporations under pressure to respond, but they are at risk of falling short amid confused policy signals and other constraints.",
-            "url": "https://www.reuters.com/business/energy/chinas-giant-state-owned-companies-struggle-align-climate-rhetoric-with-reality-2021-11-01/",
-            "urlToImage": "https://www.reuters.com/resizer/Ne8ps_MO_3yNgOkWxsWzzQwxptQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WSJ76CBFVJNPBNDZCHLGX2BWWA.jpg",
-            "publishedAt": "2021-11-01T05:56:00Z",
-            "content": "Smoke rises from chimneys at a Sinopec refinery in Qingdao, Shangdong province, China, February 9, 2014. REUTERS/China DailySHANGHAI, Nov 1 (Reuters) - Ambitious pledges from China's leaders to cut e… [+4988 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Who's building the metaverse? - Reuters",
-            "description": "Facebook <a href=\"https://www.reuters.com/companies/FB.O\" target=\"_blank\">(FB.O)</a> changed its name last week to Meta Platforms Inc to signal its focus on the metaverse, which it thinks will be the successor to the mobile internet.",
-            "url": "https://www.reuters.com/technology/whos-building-metaverse-2021-11-01/",
-            "urlToImage": "https://www.reuters.com/resizer/8VvvQOanRZlFPrL41m3Of1S6KJ8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4ZRSNOYXLRNPDPFGVFXJT3CS5Y.jpg",
-            "publishedAt": "2021-11-01T10:15:00Z",
-            "content": "Visitors are pictured in front of an immersive art installation titled \"Machine Hallucinations Space: Metaverse\" by media artist Refik Anadol, which will be converted into NFT and auctioned online at… [+4575 chars]"
+            "author": "Christina Carrega, Joe Sutton and Susannah Cullinane, CNN",
+            "title": "Rev. Jesse Jackson hospitalized after fall at Howard University - CNN",
+            "description": "Civil rights leader Rev. Jesse Jackson was hospitalized after falling and hitting his head while attending a meeting at Howard University in Washington, DC, Monday, according to his Rainbow PUSH Coalition.",
+            "url": "https://www.cnn.com/2021/11/02/us/jesse-jackson-hospitalized-howard-university/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211101231922-jesse-jackson-2019-file-restricted-super-tease.jpg",
+            "publishedAt": "2021-11-02T06:14:00Z",
+            "content": "(CNN)Civil rights leader Rev. Jesse Jackson was hospitalized after falling and hitting his head while attending a meeting at Howard University in Washington, DC, Monday, according to his Rainbow PUSH… [+2339 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Android Central"
+                "name": "New York Times"
             },
-            "author": "Nicholas Sutrich",
-            "title": "Samsung and Google's Wear OS 3 secrecy has foiled its success this year",
-            "description": "Despite the excitement back in early summer, 2021 will go down as yet another ho-hum year for Google's Wear OS platform. It didn't have to be this way, but Google seems to have some grand last-ditch effort planned that few know about — except for Samsung — an…",
-            "url": "https://www.androidcentral.com/samsung-and-googles-secrecy-wear-os-3-has-foiled-its-success-year",
-            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/fossil-gen-6-halloween-watch-face.jpg",
-            "publishedAt": "2021-11-01T12:00:03Z",
-            "content": "Despite the excitement back in early summer, 2021 will go down as yet another ho-hum year for Google's Wear OS platform. It didn't have to be this way, but Google seems to have some grand last-ditch … [+5586 chars]"
+            "author": null,
+            "title": "Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas - The New York Times",
+            "description": "A new rule will be announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change, aides said.",
+            "url": "https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/11/01/climate/00cli-methane1/00cli-methane1-facebookJumbo.jpg",
+            "publishedAt": "2021-11-02T05:00:08Z",
+            "content": "Its never going to get better; the damage has been done, Ms. Franklin said when she and her husband traveled to Washington, D.C., to protest new fossil fuel projects. Ms. Franklin said she thought ne… [+1360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lora Kolodny, Michael Wayland",
+            "title": "Elon Musk says Tesla has not signed contract with Hertz yet - CNBC",
+            "description": "Last week, the electric automaker's market cap hit $1 trillion after Hertz said it would order 100,000 Teslas by the end of 2022.",
+            "url": "https://www.cnbc.com/2021/11/02/elon-musk-says-tesla-has-not-signed-contract-with-hertz-yet.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106926995-1628885360355-elon2.jpg?v=1634674400",
+            "publishedAt": "2021-11-02T04:19:52Z",
+            "content": "Tesla CEO Elon Musk said on Monday night that his electric vehicle company has yet to sign a contract with rental car company Hertz. The tweet from Musk seemingly contradicted a prior announcement an… [+3624 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Presented by Max Rushden with Barry Glendenning, Jonathan Wilson and Jordan Jarrett-Bryan. Produced by Samuel James.",
-            "title": "Crystal Palace stun Manchester City and Nuno sacked mid-pod – Football Weekly",
-            "description": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson and Jordan Jarrett-Bryan to discuss Manchester City and Liverpool dropping points at home – before they react (mid-pod) to Tottenham’s sacking of Nuno Espírito Santo Rate, review, share on Apple Podc…",
-            "url": "https://www.theguardian.com/football/audio/2021/nov/01/crystal-palace-stun-manchester-city-and-nuno-sacked-mid-pod-football-weekly",
-            "urlToImage": "https://i.guim.co.uk/img/media/2dc523f2a9c0bd6c64dd77e6621d9bae45dc0f36/0_200_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fba75f970158c9645c8ef233fe5dbbd7",
-            "publishedAt": "2021-11-01T14:31:51Z",
-            "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nWe begin at the Etihad, as Patrick Vieiras Cryst… [+851 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Struggling Kansas City Chiefs scrabble past New York Giants to reach .500 - The Guardian",
+            "description": "Harrison Butker hit a pair of fourth-quarter field goals and the Kansas City Chiefs scrambled their way to a 20-17 comeback win",
+            "url": "https://amp.theguardian.com/sport/2021/nov/01/kansas-city-chiefs-new-york-giants-nfl-monday-night-football",
+            "urlToImage": null,
+            "publishedAt": "2021-11-02T03:36:00Z",
+            "content": "NFL<ul><li>New York Giants 17-20 Kansas City Chiefs</li><li>Chiefs offense continues to splutter in hard-fought win</li></ul>\r\nHarrison Butker hit a pair of fourth-quarter field goals, including the … [+3300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "30,000 Visitors Locked Inside Shanghai Disneyland For Hours By Chinese Government After 1 Positive Covid Case - Deadline",
+            "description": "One woman who visited Shanghai Disneyland on Saturday either later tested positive for Covid or came into contact with someone who had it, according to reports. As a result, more than 30,000 visitors were locked in the park Sunday by Chinese government offici…",
+            "url": "https://deadline.com/2021/11/shanghai-disneyland-visitors-locked-in-covid-1234866167/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2055/03/Shanghai-Disneyland.jpg?w=1000",
+            "publishedAt": "2021-11-02T03:03:00Z",
+            "content": "One woman who visited Shanghai Disneyland on Saturday either later tested positive for Covid or came into contact with someone who had it, according to reports. As a result, more than 30,000 visitors… [+2422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Brian Mann",
+            "title": "A California court says drug companies aren't liable for the state's opioid crisis - NPR",
+            "description": "In a ruling issued late Monday, state superior court Judge Peter J. Wilson found the companies, including Johnson &amp; Johnson, aren't \"legally liable\" for the opioid crisis.",
+            "url": "https://www.npr.org/2021/11/01/1051321580/california-judge-drug-companies-opioid-crisis-allergan-endo-johnson-teva",
+            "urlToImage": "https://media.npr.org/assets/img/2021/11/01/gettyimages-1233004651_wide-612d1bd24016193faeaf3b3db90c6d5df51e37c1.jpg?s=1400",
+            "publishedAt": "2021-11-02T02:48:50Z",
+            "content": "In a ruling issued late Monday, Orange County Superior Court Judge Peter J. Wilson found the companies, including Johnson &amp; Johnson, aren't \"legally liable\" for the opioid crisis.\r\nSOPA Images/Li… [+2285 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Taiyler Simone Mitchell",
+            "title": "Rep. Cori Bush blasts Sen. Manchin's opposition to the reconciliation bill - Business Insider",
+            "description": "The Build Back Better reconciliation bill focuses on, in part, climate change solutions along with child and medical care. Manchin is a key holdout.",
+            "url": "https://www.businessinsider.com/rep-bush-manchin-opposition-bbb-anti-black-child-woman-immigrant-2021-11",
+            "urlToImage": "https://i.insider.com/61808edf1037b10018154e25?width=1200&format=jpeg",
+            "publishedAt": "2021-11-02T02:40:09Z",
+            "content": "Following a Monday press conference, where Sen. Joe Manchin said he needed \"more clarity\" on the Biden administration's Build Back Better framework, Rep. Cori Bush called him out in a statement for b… [+2661 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Charles Trepany",
+            "title": "Hailey Bieber reveals 'very sad' time in relationship with husband Justin: 'We didn't speak' - USA TODAY",
+            "description": "Hailey Bieber is getting candid about her relationship with Justin Bieber — including a rough patch where they didn't speak to one another.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2021/11/01/hailey-bieber-reveals-she-and-justin-used-not-speaking-terms/6242926001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/09/14/USAT/37296924-6905-4f23-8cf6-db695beb0ec6-GTY_1340142925.jpg?crop=2750,1547,x1,y293&width=1600&height=800&fit=bounds",
+            "publishedAt": "2021-11-02T02:17:19Z",
+            "content": "Justin Bieber and Hailey Baldwin celebrated their nuptials with a wedding. Stars like Kendall Jenner and Justine Skye were in attendance.\r\nUSA TODAY\r\nHailey Bieber is getting candid about her relatio… [+3473 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Henry J. Gomez",
+            "title": "Trump hails Glenn Youngkin as 'fantastic guy' in last-minute phone rally on eve of Va. election - NBC News",
+            "description": "Donald Trump made a brief cameo Monday night in Glenn Youngkin's campaign for governor of Virginia, telling voters that the Republican will \"do a job like nobody can do.\"",
+            "url": "https://www.nbcnews.com/politics/elections/trump-hails-glenn-youngkin-fantastic-guy-last-minute-phone-rally-n1282929",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_44/3516453/211101-donald-trump-ac-841p.jpg",
+            "publishedAt": "2021-11-02T01:52:00Z",
+            "content": "Former President Donald Trump made a brief cameo Monday night in Glenn Youngkin's campaign for governor of Virginia, telling voters that the Republican is a \"fantastic guy\" who will \"do a job like no… [+4140 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Monique Beals",
+            "title": "McConnell blasts potential payments to separated migrant families | TheHill - The Hill",
+            "description": "Senate Minority Leader Mitch McConnell (R-Ky.) on Monday criticized President Joe Biden's potenti...",
+            "url": "https://thehill.com/policy/international/579531-mcconnell-blasts-potential-payments-to-separated-migrant-families",
+            "urlToImage": "https://thehill.com/sites/default/files/mcconnellmitch_102621gn5_lead.jpg",
+            "publishedAt": "2021-11-02T01:46:21Z",
+            "content": "\"Honestly, this absurd idea feels like a satirical policy proposal that Republicans would have invented to make a parody out of the radical left. Oh, and the next thing you know, theyll be sending ou… [+2895 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Lauren Huff",
+            "title": "Carole Baskin sues Netflix over 'Tiger King' season 2 footage - Entertainment Weekly News",
+            "description": "Carole Baskin's claws are out: The 'Tiger King' subject and her husband are suing Netflix to remove any and all footage of them from season 2 of the docuseries.",
+            "url": "https://ew.com/tv/carole-baskin-sues-netflix-tiger-king-season-2/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B960%2C180%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F03%2F24%2FCarole-Baskin.jpg",
+            "publishedAt": "2021-11-02T01:24:00Z",
+            "content": "Carole Baskin's claws are coming out.\r\nBaskin, the owner of a big-cat sanctuary that was one of the main subjects of the hit 2020 docuseries Tiger King, is suing Netflix and Royal Goode Productions i… [+3294 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Dave Lee",
+            "title": "Electric vehicle maker Rivian targets up to $53bn valuation in IPO - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/e123d71e-8644-410c-9b4e-69a25914d867",
+            "urlToImage": null,
+            "publishedAt": "2021-11-02T01:15:06Z",
+            "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Associated Press",
-            "title": "Hong Kong: Jimmy Lai goes on trial over Tiananmen vigil",
-            "description": "Eight pro-democracy activists including the prominent businessman had been charged under national security lawsThe trial of eight pro-democracy activists, including Apple Daily newspaper founder Jimmy Lai, who were charged over their roles in an unauthorised …",
-            "url": "https://amp.theguardian.com/world/2021/nov/01/hong-kong-jimmy-lai-goes-on-trial-over-tiananmen-vigil",
-            "urlToImage": "https://i.guim.co.uk/img/media/5fa8ead8082fe27f415cc73f221d513b2c3fe3fb/0_164_4930_2958/master/4930.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dca62dced9901aaf889902c9b657ec1",
-            "publishedAt": "2021-11-01T06:29:00Z",
-            "content": "The trial of eight pro-democracy activists, including Apple Daily newspaper founder Jimmy Lai, who were charged over their roles in an unauthorised Tiananmen vigil last year began on Monday.\r\nLai and… [+2271 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Nasa delays SpaceX launch to ISS over ‘medical issue’ with astronaut - The Guardian",
+            "description": "It is the first such delay by Nasa since 1990 when the mission commander of Space Shuttle Atlantis fell ill",
+            "url": "https://amp.theguardian.com/science/2021/nov/02/nasa-delays-spacex-launch-to-iss-over-medical-issue-with-astronaut",
+            "urlToImage": null,
+            "publishedAt": "2021-11-02T01:05:00Z",
+            "content": "SpaceXIt is the first such delay by Nasa since 1990 when the mission commander of Space Shuttle Atlantis fell ill\r\nNasa has announced a rare health-related delay in its SpaceX rocket launch of four a… [+2976 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "The Denver Post"
             },
-            "author": "Joe Rossignol",
-            "title": "Apple's Extended Return Policy Now in Effect for 2021 Holiday Shopping Season",
-            "description": "Apple today announced that its extended return policy is now in effect for the holiday shopping season. The policy applies to most products that Apple sells, including the iPhone, iPad, Mac, Apple Watch, Apple TV, AirPods, HomePod mini, and more.\n\n\n\n\n\nIn the …",
-            "url": "https://www.macrumors.com/2021/11/01/apple-2021-holiday-return-policy/",
-            "urlToImage": "https://images.macrumors.com/t/RiVdgZPaKYPmuKulzHRxZHWLStY=/1600x/https://images.macrumors.com/article-new/2021/11/iphone-in-box.jpg",
-            "publishedAt": "2021-11-01T15:14:45Z",
-            "content": "Apple today announced that its extended return policy is now in effect for the holiday shopping season. The policy applies to most products that Apple sells, including the iPhone, iPad, Mac, Apple Wa… [+908 chars]"
+            "author": "Ryan O’Halloran",
+            "title": "Broncos GM George Paton, executive John Elway react to Von Miller trade - The Denver Post",
+            "description": "After the trade to send outside linebacker Von Miller to the Los Angeles Rams for second- and third-round draft picks in 2022, members of the Broncos organization issued statements: Broncos preside…",
+            "url": "https://www.denverpost.com/2021/11/01/denver-broncos-george-paton-john-elway-von-miller-trade/",
+            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2021/10/AP21283581938528.jpg?w=1024&h=683",
+            "publishedAt": "2021-11-02T00:20:20Z",
+            "content": "After the trade to send outside linebacker Von Miller to the Los Angeles Rams for second- and third-round draft picks in 2022, members of the Broncos organization issued statements:\r\nBroncos presiden… [+3194 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "Trump Slams Biden for Appearing to Fall Asleep During Climate Summit Speeches in Glasgow - Newsweek",
+            "description": "\"Nobody that has true enthusiasm and belief in a subject will ever fall asleep!\" Trump said.",
+            "url": "https://www.newsweek.com/trump-slams-biden-appearing-fall-asleep-during-climate-summit-speeches-glasgow-1644769",
+            "urlToImage": "https://d.newsweek.com/en/full/1924046/donald-trump-joe-biden-climate-change-summit.jpg",
+            "publishedAt": "2021-11-02T00:09:19Z",
+            "content": "Former President Donald Trump slammed President Joe Biden after a video appeared to show the president briefly dozing off during the COP26 climate summit in Glasgow, Scotland, on Monday. Trump is pic… [+3051 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "TechSpot"
             },
-            "author": "Joe Rossignol",
-            "title": "New HomePod Mini Colors Now Available for Apple Store Pickup",
-            "description": "The new HomePod mini colors, including yellow, orange, and blue, are now available for same-day Apple Store pickup in the United States and Canada. We'll update this post if online orders go live too.\n\n\n\n\n\nThe first real-world photos and videos of the new Hom…",
-            "url": "https://www.macrumors.com/2021/11/01/new-homepod-mini-colors-now-available/",
-            "urlToImage": "https://images.macrumors.com/t/R_FHl654jUcTX-rfybspiTa8S3s=/1600x/https://images.macrumors.com/article-new/2021/10/homepod-mini-colors.jpeg",
-            "publishedAt": "2021-11-01T13:54:09Z",
-            "content": "Apple today announced that the new HomePod mini colors, including yellow, orange, and blue, are now available to order on Apple.com and in the Apple Store app in the United States, Canada, and Mexico… [+909 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Joe Rossignol",
-            "title": "Here's a First Real-World Look at the New HomePod Mini Colors",
-            "description": "At its \"Unleashed\" event last week, Apple announced that the HomePod mini will be available in three new colors starting in November, including yellow, orange, and blue. Apple has yet to provide a specific release date for the new colors.\n\n\n\n\n\nThe first real-…",
-            "url": "https://www.macrumors.com/2021/11/01/real-world-photos-of-new-homepod-mini-colors/",
-            "urlToImage": "https://images.macrumors.com/t/cDgP6xHFQxGNnjKeg37tugF-RH8=/3564x/https://images.macrumors.com/article-new/2021/10/homepod-mini-new-colors-brian-tong.jpg",
-            "publishedAt": "2021-11-01T13:10:47Z",
-            "content": "At its \"Unleashed\" event last week, Apple announced that the HomePod mini will be available in three new colors starting in November, including yellow, orange, and blue. Apple has yet to provide a sp… [+594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "David Carnoy",
-            "title": "Beats Fit Pro review: The sportier AirPods I've always wanted - CNET",
-            "description": "The Beats Fit Pro are real and they're pretty spectacular.",
-            "url": "https://www.cnet.com/tech/mobile/beats-fit-pro-review/",
-            "urlToImage": "https://www.cnet.com/a/img/t1l8xUXtWWJepXozRWwHeruYESc=/1200x630/2021/10/29/6a34a2d7-b3b4-45f5-9b87-bf551cc9fb54/4-beats-fit-pro-cnet-2021.jpg",
-            "publishedAt": "2021-11-01T14:00:12Z",
-            "content": "Hot on the heels of the third-generation AirPods, Apple has another new set of earbuds, this time from its subsidiary audio company, Beats. Technically, the new Beats Fit Pro ($200) aren't AirPods, b… [+14039 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Tim Hardwick",
-            "title": "Kuo: Apple's 2022 AR/VR Headset to Support Faster Wi-Fi 6E",
-            "description": "Apple plans to release its first mixed reality headset with Wi-Fi 6E support in 2022, Apple analyst Ming-Chi Kuo said today in a note sent out to investors.\n\n\n\nConcept render by Antonio De Rosa based on rumors\n\nApple is rumored to be working on at least two A…",
-            "url": "https://www.macrumors.com/2021/11/01/apple-ar-vr-headset-wifi-6e-support/",
-            "urlToImage": "https://images.macrumors.com/t/GkIAwbKnxOtMT3mvClgQaaHnuQo=/2006x/https://images.macrumors.com/article-new/2021/02/apple-mixed-reality-headset-mockup-feature.jpg",
-            "publishedAt": "2021-11-01T10:23:23Z",
-            "content": "Apple plans to release its first mixed reality headset with Wi-Fi 6E support in 2022, Apple analyst Ming-Chi Kuo said today in a note sent out to investors.\r\nApple is rumored to be working on at leas… [+2537 chars]"
+            "author": "Zak Islam",
+            "title": "Apple co-founder Steve Wozniak: iPhone 13 no different than previous iPhones - TechSpot",
+            "description": "The latest generation of iPhones launched in September and delivered several improvements compared to the iPhone 12, including increased battery life and the inevitable enhancements to the...",
+            "url": "https://www.techspot.com/news/92028-apple-co-founder-steve-wozniak-iphone-13-no.html",
+            "urlToImage": "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-01-image-28.jpg",
+            "publishedAt": "2021-11-02T00:09:00Z",
+            "content": "Bottom line: A common criticism aimed at new versions of Apple's iPhone is that the device doesn't offer enough of an upgrade to warrant a purchase. Apple co-founder Steve Wozniak also shares that se… [+2199 chars]"
         }
     ]
 }
