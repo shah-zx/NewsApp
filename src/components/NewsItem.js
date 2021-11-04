@@ -1,11 +1,10 @@
 import React, { Component } from 'react'
-
 export class NewsItem extends Component {
     
     render() {
         let {title , description , Imageurl , Newsurl } = this.props;
         return (
-            <div className="my-3">
+            <div className="my-3 ">
             <div className="card" style= {{width : "18 rem"}}>
             <img src = {!Imageurl?"https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/livetv_share.png":Imageurl} className="card-img-top"  alt="Card image cap" />
             <div className="card-body">
