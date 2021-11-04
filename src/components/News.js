@@ -81,6 +81,7 @@ export class News extends Component {
         let data = await fetch(url)   // Waiting for our URL to be fetched //
         let parsedData = await data.json()   // The data will be in the form of json //
         // console.log(parsedData) Just for demonstration //
+        console.log(parsedData);
         this.setState({
             // page : this.state.page , 
             articles: parsedData.articles , 
@@ -89,6 +90,7 @@ export class News extends Component {
     }
     render() {
         console.log("render");
+
         return (
             <div className="container my-3 ">
                 <h1 className="text-center">News - Top Headlines</h1>
@@ -96,7 +98,7 @@ export class News extends Component {
                 <div className="row">
                     {!this.state.loading && this.state.articles.map((element) => {
                         return <div className="col-md-4">
-                            <NewsItem  title={element.title?element.title:""} description={element.description?element.description: ""} Imageurl={element.urlToImage} Newsurl={element.url} />
+                            <NewsItem  title={element.title?element.title:""} description={element.description?element.description: ""} Imageurl={element.urlToImage} Newsurl={element.url} author={element.author} date={element.publishedAt}/>
                         </div>
                     })}
                 </div>
