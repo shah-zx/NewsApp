@@ -4,22 +4,6 @@ import Spinner from './Spinner'
 import PropTypes from 'prop-types'
 export class News extends Component {
 
-// These are the default proptypes for class components //
-    
-static defaultProps = {
-    country : 'in' , 
-    pageSize : 9 , 
-    category : 'general'
-}
-
-static propTypes = {
-    country : PropTypes.string,
-    pageSize : PropTypes.number , 
-    category : PropTypes.string
-}
-
-
-
     // These are the state updates for the functional based components //
     
 //    const [articles , setArtices] = useState([])
@@ -28,8 +12,8 @@ static propTypes = {
 
 
     // This is our constructor : will construct the cards //
-    constructor(props) {
-        super(props);
+    constructor() {
+        super();
         console.log("Hello i am a constructor ")
         this.state = {
             page : 1 , 
@@ -48,7 +32,7 @@ static propTypes = {
             page : this.state.page - 1, // Incrementing the page //
             // articles: parsedData.articles
         })
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}country=${this.props.country}&apiKey=6a6b787c519a4d56930d8ba4f5c08949&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}country=${props.country}&apiKey=6a6b787c519a4d56930d8ba4f5c08949&page=${this.state.page}&pageSize=${props.pageSize}`;
         this.setState({loading: true});
         let data = await fetch(url);   // Waiting for our URL to be fetched //
         let parsedData = await data.json()   // The data will be in the form of json //
@@ -84,7 +68,7 @@ static propTypes = {
 
 
 
-    async  componentDidMount() {  // This runs after render //   // Using the promise return here with the help of async and await //
+    const  componentDidMount  = async() => {  // This runs after render //   // Using the promise return here with the help of async and await //
         // console.log("cdm"); Just for demonstration purpose //
         let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apikey=6a6b787c519a4d56930d8ba4f5c08949&page=${this.state.page}&pageSize=${this.props.pageSize}`
         this.setState({loading: true})
@@ -98,8 +82,7 @@ static propTypes = {
             loading : false
         })
     }
-
-    render () {
+    render{
     
        return (
             <div className="container my-3 ">
@@ -126,6 +109,19 @@ static propTypes = {
 }
 
 export default News
+
+News.defaultProps = {
+    country : 'in' , 
+    pageSize : 9 , 
+    category : 'general'
+}
+
+News.propTypes = {
+    country : PropTypes.string,
+    pageSize : PropTypes.number , 
+    category : PropTypes.string
+}
+
 
 
 

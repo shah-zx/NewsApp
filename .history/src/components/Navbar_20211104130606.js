@@ -2,12 +2,15 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
 
-const Navbar = () => {
-  
+export class Navbar extends Component {
+  static propTypes = {
+
+  }
    // https://hn-s.herokuapp.com/education  // guruji 
    
+  render() {
     return (
-      <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <Link className="navbar-brand" to="/">NEWS-365</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
@@ -39,7 +42,7 @@ const Navbar = () => {
         </div>
       </nav>
     )
-  
+  }
 
 }
 

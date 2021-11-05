@@ -4,7 +4,6 @@ import Spinner from './Spinner'
 import PropTypes from 'prop-types'
 export class News extends Component {
 
-// These are the default proptypes for class components //
     
 static defaultProps = {
     country : 'in' , 
